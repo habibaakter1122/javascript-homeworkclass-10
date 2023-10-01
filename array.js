@@ -12,3 +12,10 @@ console.log(store0,store1,store2);
       console.log(studentsName[2]);
 
 console.log(studentsAges[1]);
+
+
+
+
+
+
+
